@@ -1,3 +1,3 @@
 # My-master-thesis
 
-My master's thesis, "Resonant particle production of an evolving oscillating scalar field", which I wrote for my master's studies of Theoretical physics at Charles University.  The thesis will be uploaded by the end of April. 
+My master's thesis, supervised by Dražen Glavan, "Resonant particle production of an evolving oscillating scalar field", which I wrote for my master's studies of Theoretical physics at Charles University. 
